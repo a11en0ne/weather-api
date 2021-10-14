@@ -3,6 +3,10 @@
 Using open weather map API
 Ref: https://openweathermap.org/api
 
+Online:https://weather-map-report.netlify.app/
+
+Type your city name to search for weather report
+
 ## Project setup
 
 ```
